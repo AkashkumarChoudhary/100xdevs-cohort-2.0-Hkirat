@@ -4,7 +4,7 @@
 generator client {
   provider = "prisma-client-js"
 }
-
+ 
 datasource db {
   provider = "postgresql"
   url      = "postgresql://debsouryadatta:ay9sNtUug2Wn@ep-fragrant-king-a11m6ein.ap-southeast-1.aws.neon.tech/cohort-week11-prisma?sslmode=require"

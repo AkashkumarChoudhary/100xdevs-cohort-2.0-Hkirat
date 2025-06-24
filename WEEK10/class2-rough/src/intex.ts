@@ -9,7 +9,7 @@ async function insertUser(username: string, password: string, firstName: string,
         password,
         firstName,
         lastName
-    },
+    }, 
     select: {
         username: true,
         firstName: true,

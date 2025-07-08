@@ -1,1 +1,3 @@
-function isLegal
+const greet = (name:string)=>{
+     `Hello , ${name}`;
+}
